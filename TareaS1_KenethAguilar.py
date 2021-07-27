@@ -1,3 +1,5 @@
+print("Generador de contraseñas")
+
 #Metodo 1
 
 #Importe el SystemRandom
